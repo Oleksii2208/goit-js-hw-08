@@ -1,8 +1,7 @@
-body {
-  width: 1440px;
-}
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .gallery {
